@@ -50,7 +50,13 @@ export function QuestionListWithSearch({
                         {questionTypeEmoji[q.questionType]}
                       </span>
                     )}
-                    <span>{q.title}</span>
+                    <span
+                      style={{
+                        viewTransitionName: q.slug,
+                      } as React.CSSProperties}
+                    >
+                      {q.title}
+                    </span>
                     {q.description && (
                       <span className="block text-xs text-gray-500 mt-1">
                         {q.description}
