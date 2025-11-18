@@ -1,0 +1,316 @@
+{
+  "$schema": "./schema.json",
+  "language": "en",
+  "title": "English Connectors Practice",
+  "description": "Choose the correct connector to complete each sentence. Practice addition, sequence, emphasis, and contrast connectors.",
+  "slug": "connectors-practice",
+  "questionType": "fill_in_the_blank",
+  "labels": ["connectors", "grammar", "B1", "B2"],
+  "questions": [
+    {
+      "question": "The weather was terrible; ______, we decided to go hiking anyway.",
+      "answer": "Nevertheless",
+      "choices": ["Nevertheless", "Then", "Additionally", "Indeed"]
+    },
+    {
+      "question": "She didn't like the food; ______, she finished her plate.",
+      "answer": "Nevertheless",
+      "choices": ["Nevertheless", "Furthermore", "Eventually", "Especially"]
+    },
+    {
+      "question": "We packed our bags; ______, we left for the airport.",
+      "answer": "Then",
+      "choices": ["Then", "Despite this", "Added to", "Truly"]
+    },
+    {
+      "question": "He practiced every day; ______, he won the competition.",
+      "answer": "Eventually",
+      "choices": ["Eventually", "Apart from", "Additionally", "Notably"]
+    },
+    {
+      "question": "The room was large; ______, it had a beautiful view.",
+      "answer": "Additionally",
+      "choices": ["Additionally", "Nevertheless", "Briefly", "Actually"]
+    },
+    {
+      "question": "The meeting started late; ______, we finished all tasks on time.",
+      "answer": "Nevertheless",
+      "choices": ["Nevertheless", "Added to", "Briefly", "Along with"]
+    },
+    {
+      "question": "She studied hard for the exam; ______, she felt confident about it.",
+      "answer": "Therefore",
+      "choices": ["Therefore", "Although", "What's more", "Truly"]
+    },
+    {
+      "question": "The movie was boring; ______, the acting was excellent.",
+      "answer": "Yet",
+      "choices": ["Yet", "Then", "Furthermore", "Indeed"]
+    },
+    {
+      "question": "We enjoyed the concert; ______, the tickets were expensive.",
+      "answer": "Although",
+      "choices": ["Although", "And", "In fact", "All in all"]
+    },
+    {
+      "question": "He is very talented; ______, he works harder than anyone else.",
+      "answer": "What's more",
+      "choices": ["What's more", "Whereas", "Eventually", "To sum up"]
+    },
+    {
+      "question": "The project was challenging; ______, the team completed it successfully.",
+      "answer": "Nevertheless",
+      "choices": ["Nevertheless", "Second", "Especially", "By and large"]
+    },
+    {
+      "question": "______, we need to review the budget before making decisions.",
+      "answer": "First",
+      "choices": ["First", "Despite this", "Notably", "Whereas"]
+    },
+    {
+      "question": "She speaks three languages; ______, she's learning a fourth one.",
+      "answer": "Furthermore",
+      "choices": ["Furthermore", "Even so", "In the end", "To be sure"]
+    },
+    {
+      "question": "The restaurant was crowded; ______, we found a table quickly.",
+      "answer": "Nevertheless",
+      "choices": ["Nevertheless", "Additionally", "Therefore", "Truly"]
+    },
+    {
+      "question": "______, the presentation was well-received by everyone.",
+      "answer": "All in all",
+      "choices": ["All in all", "Apart from", "Along with", "Especially"]
+    },
+    {
+      "question": "He seemed calm; ______, he was extremely nervous inside.",
+      "answer": "In reality",
+      "choices": ["In reality", "Then", "Furthermore", "Therefore"]
+    },
+    {
+      "question": "The plan worked perfectly; ______, everyone was satisfied with the results.",
+      "answer": "Indeed",
+      "choices": ["Indeed", "Although", "Second", "Alternatively"]
+    },
+    {
+      "question": "They arrived late; ______, they didn't miss the main event.",
+      "answer": "Nevertheless",
+      "choices": ["Nevertheless", "Additionally", "Briefly", "Especially"]
+    },
+    {
+      "question": "The task seemed impossible; ______, we managed to complete it.",
+      "answer": "Yet",
+      "choices": ["Yet", "And", "Therefore", "Notably"]
+    },
+    {
+      "question": "She loves reading; ______, she enjoys writing her own stories.",
+      "answer": "Additionally",
+      "choices": ["Additionally", "Whereas", "Eventually", "To be sure"]
+    },
+    {
+      "question": "______, he decided to accept the job offer after careful consideration.",
+      "answer": "Eventually",
+      "choices": ["Eventually", "Despite this", "Along with", "Especially"]
+    },
+    {
+      "question": "The instructions were clear; ______, many people still had questions.",
+      "answer": "Nevertheless",
+      "choices": ["Nevertheless", "Furthermore", "Therefore", "Indeed"]
+    },
+    {
+      "question": "She is talented; ______, she is one of the best singers I know.",
+      "answer": "In fact",
+      "choices": ["In fact", "Although", "Then", "Added to"]
+    },
+    {
+      "question": "The exam was difficult; ______, most students passed with good grades.",
+      "answer": "Despite this",
+      "choices": ["Despite this", "Additionally", "Therefore", "Truly"]
+    },
+    {
+      "question": "We can go to the beach; ______, we could visit the museum.",
+      "answer": "Alternatively",
+      "choices": ["Alternatively", "Indeed", "Furthermore", "Eventually"]
+    },
+    {
+      "question": "The concert was amazing; ______, the sound quality was perfect.",
+      "answer": "Especially",
+      "choices": ["Especially", "Nevertheless", "Briefly", "Whereas"]
+    },
+    {
+      "question": "He worked all night; ______, he finished the report on time.",
+      "answer": "In the end",
+      "choices": ["In the end", "Apart from", "Additionally", "Notably"]
+    },
+    {
+      "question": "The hotel was expensive; ______, it offered excellent service.",
+      "answer": "On the other hand",
+      "choices": ["On the contrary", "Then", "What's more", "To sum up"]
+    },
+    {
+      "question": "She prefers coffee; ______, her sister likes tea better.",
+      "answer": "Whereas",
+      "choices": ["Whereas", "Indeed", "Furthermore", "Eventually"]
+    },
+    {
+      "question": "The game was exciting; ______, the final minutes were incredible.",
+      "answer": "Especially",
+      "choices": ["Especially", "Nevertheless", "Therefore", "Alternatively"]
+    },
+    {
+      "question": "______, the project exceeded all our expectations.",
+      "answer": "For the most part",
+      "choices": [
+        "For the most part",
+        "Apart from",
+        "Along with",
+        "Despite this"
+      ]
+    },
+    {
+      "question": "The solution was simple; ______, nobody had thought of it before.",
+      "answer": "Yet",
+      "choices": ["Yet", "And", "Therefore", "Briefly"]
+    },
+    {
+      "question": "He is hardworking; ______, he never complains about difficult tasks.",
+      "answer": "What's more",
+      "choices": ["What's more", "Although", "Eventually", "To sum up"]
+    },
+    {
+      "question": "The journey was long; ______, we arrived safely at our destination.",
+      "answer": "Nevertheless",
+      "choices": ["Nevertheless", "Additionally", "Briefly", "Especially"]
+    },
+    {
+      "question": "______, everyone agreed that the event was a great success.",
+      "answer": "By and large",
+      "choices": ["By and large", "Apart from", "Then", "Notably"]
+    },
+    {
+      "question": "She is intelligent; ______, she has a great sense of humor.",
+      "answer": "Furthermore",
+      "choices": ["Furthermore", "Whereas", "Eventually", "To be sure"]
+    },
+    {
+      "question": "The performance was outstanding; ______, it received a standing ovation.",
+      "answer": "Indeed",
+      "choices": ["Indeed", "Although", "Second", "Alternatively"]
+    },
+    {
+      "question": "They were exhausted; ______, they continued working until midnight.",
+      "answer": "Even so",
+      "choices": ["Even so", "Additionally", "Therefore", "Truly"]
+    },
+    {
+      "question": "The price was high; ______, the quality justified the cost.",
+      "answer": "Nevertheless",
+      "choices": ["Nevertheless", "Then", "What's more", "Briefly"]
+    },
+    {
+      "question": "He appeared confident; ______, he was feeling quite uncertain.",
+      "answer": "Actually",
+      "choices": ["Actually", "Furthermore", "Therefore", "Eventually"]
+    },
+    {
+      "question": "______, we decided to postpone the meeting until next week.",
+      "answer": "In the end",
+      "choices": ["In the end", "Apart from", "Additionally", "Especially"]
+    },
+    {
+      "question": "The book was interesting; ______, the ending was disappointing.",
+      "answer": "Yet",
+      "choices": ["Yet", "And", "Indeed", "Therefore"]
+    },
+    {
+      "question": "She loves traveling; ______, exploring new cultures fascinates her.",
+      "answer": "In fact",
+      "choices": ["In fact", "Although", "Then", "Briefly"]
+    },
+    {
+      "question": "The team won the championship; ______, they celebrated with a party.",
+      "answer": "Therefore",
+      "choices": ["Therefore", "Nevertheless", "What's more", "Alternatively"]
+    },
+    {
+      "question": "______, let me explain the main points of the presentation.",
+      "answer": "First",
+      "choices": ["First", "Despite this", "Notably", "Whereas"]
+    },
+    {
+      "question": "The assignment was complex; ______, the students completed it well.",
+      "answer": "Despite this",
+      "choices": ["Despite this", "Additionally", "Therefore", "Truly"]
+    },
+    {
+      "question": "He enjoys swimming; ______, he goes to the pool every morning.",
+      "answer": "In fact",
+      "choices": ["In fact", "Although", "Second", "Alternatively"]
+    },
+    {
+      "question": "The flight was delayed; ______, we still made our connection.",
+      "answer": "Nevertheless",
+      "choices": ["Nevertheless", "Furthermore", "Eventually", "Especially"]
+    },
+    {
+      "question": "______, we should discuss the budget before finalizing the plans.",
+      "answer": "Second",
+      "choices": ["Second", "Despite this", "Truly", "Whereas"]
+    },
+    {
+      "question": "The weather improved; ______, we went ahead with the outdoor event.",
+      "answer": "Therefore",
+      "choices": ["Therefore", "Although", "What's more", "Briefly"]
+    },
+    {
+      "question": "She is creative; ______, she has excellent technical skills too.",
+      "answer": "Along with",
+      "choices": ["Along with", "Nevertheless", "Eventually", "To be sure"]
+    },
+    {
+      "question": "The deadline was tight; ______, the team delivered quality work.",
+      "answer": "Nevertheless",
+      "choices": ["Nevertheless", "Additionally", "Therefore", "Notably"]
+    },
+    {
+      "question": "______, this has been one of our most productive years.",
+      "answer": "All in all",
+      "choices": ["All in all", "Apart from", "Then", "Especially"]
+    },
+    {
+      "question": "He claimed to be an expert; ______, he made several mistakes.",
+      "answer": "Yet",
+      "choices": ["Yet", "And", "Indeed", "Therefore"]
+    },
+    {
+      "question": "The proposal was rejected; ______, we learned valuable lessons from it.",
+      "answer": "Nevertheless",
+      "choices": ["Nevertheless", "Furthermore", "Briefly", "Truly"]
+    },
+    {
+      "question": "She is dedicated; ______, she always goes the extra mile.",
+      "answer": "Indeed",
+      "choices": ["Indeed", "Although", "Then", "Alternatively"]
+    },
+    {
+      "question": "The presentation was clear; ______, everyone understood the key points.",
+      "answer": "As it happens",
+      "choices": ["As it happens", "Nevertheless", "Additionally", "Whereas"]
+    },
+    {
+      "question": "They faced many obstacles; ______, they never gave up hope.",
+      "answer": "Nevertheless",
+      "choices": ["Nevertheless", "Furthermore", "Therefore", "Briefly"]
+    },
+    {
+      "question": "______, we need to acknowledge everyone's contribution to this project.",
+      "answer": "Last",
+      "choices": ["Last", "Despite this", "Notably", "Eventually"]
+    },
+    {
+      "question": "The restaurant was busy; ______, the service remained excellent.",
+      "answer": "Despite this",
+      "choices": ["Despite this", "Additionally", "Therefore", "Truly"]
+    }
+  ]
+}
